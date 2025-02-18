@@ -96,7 +96,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
 <div align="center">
   <img 
     height="165em" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
   />
   <img 
     height="165em" 
