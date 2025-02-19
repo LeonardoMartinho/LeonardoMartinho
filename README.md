@@ -27,7 +27,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Python" 
     title="Python"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -35,7 +35,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Jupyter" 
     title="Jupyter"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
@@ -43,7 +43,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
@@ -51,7 +51,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="SQLSERVER" 
     title="SQLSERVER"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
@@ -59,7 +59,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -67,7 +67,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="CSS" 
     title="CSS"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
@@ -75,7 +75,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="JavaScript" 
     title="JavaScript"
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
@@ -83,7 +83,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Bootstrap"
     title="Bootstrap" 
-    width="30px" 
+    width="60px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
@@ -95,13 +95,9 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
 
 ### 📊 Estatísticas
 
-<div align="center">
+<div align="left">
   <img 
-    height="165em" 
+    height="210em" 
     src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
-  />
-  <img 
-    height="165em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoMartinho&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </div>
