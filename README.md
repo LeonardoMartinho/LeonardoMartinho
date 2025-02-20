@@ -41,6 +41,14 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
 />
 <img 
     align="left" 
+    alt="Seaborn" 
+    title="Seaborn"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
+/>
+<img 
+    align="left" 
     alt="Pandas" 
     title="Pandas"
     width="60px" 
