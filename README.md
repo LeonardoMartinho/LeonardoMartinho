@@ -49,6 +49,14 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
 />
 <img 
     align="left" 
+    alt="Scikitlearn" 
+    title="Scikitlearn"
+    width="60px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
+/>
+<img 
+    align="left" 
     alt="Pandas" 
     title="Pandas"
     width="60px" 
