@@ -27,7 +27,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Python" 
     title="Python"
-    width="100px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -35,7 +35,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Jupyter" 
     title="Jupyter"
-    width="100px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
@@ -43,7 +43,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Seaborn" 
     title="Seaborn"
-    width="100px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
 />
@@ -51,7 +51,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Scikitlearn" 
     title="Scikitlearn"
-    width="100px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
 />
@@ -59,7 +59,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="100px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
@@ -67,15 +67,13 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="SQLSERVER" 
     title="SQLSERVER"
-    width="100px" 
+    width="80px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 
 
 
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
