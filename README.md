@@ -27,7 +27,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Python" 
     title="Python"
-    width="60px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -35,7 +35,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Jupyter" 
     title="Jupyter"
-    width="60px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" 
 />
@@ -43,7 +43,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Seaborn" 
     title="Seaborn"
-    width="60px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" 
 />
@@ -51,7 +51,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Scikitlearn" 
     title="Scikitlearn"
-    width="60px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" 
 />
@@ -59,7 +59,7 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="Pandas" 
     title="Pandas"
-    width="60px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" 
 />
@@ -67,45 +67,16 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     align="left" 
     alt="SQLSERVER" 
     title="SQLSERVER"
-    width="60px" 
+    width="100px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="60px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
 
 
 
+<br/>
+<br/>
+<br/>
 <br/>
 <br/>
 
