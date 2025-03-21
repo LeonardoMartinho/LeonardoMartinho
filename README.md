@@ -80,9 +80,10 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
 
 ### 📊 Estatísticas
 
-<div align="left">
+<div style="text-align: left;">
   <img 
     height="210em" 
-    src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&cache_seconds=86400" 
+    src="https://github-readme-stats.vercel.app/api?username=LeonardoMartinho&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    alt="Estatísticas do GitHub"
   />
 </div>
