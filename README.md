@@ -71,6 +71,22 @@ Atualmente, estou aprimorando meus conhecimentos em Data Science e Inteligência
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
+<img 
+    align="left" 
+    alt="LangChain" 
+    title="LangChain"
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/0f56c03d-35b6-4954-87a9-d0a43f965a4f" 
+/>
+<img 
+    align="left" 
+    alt="OpenAIAPI" 
+    title="OpenAIAPI"
+    width="80px" 
+    style="padding-right: 10px;" 
+    src="https://github.com/user-attachments/assets/69c51eb1-4e4f-42e2-9dba-0e80b41e33a2" 
+/>
 
 
 
